@@ -1,5 +1,5 @@
 # OpenLink
-[NeoLink's](https://googol.neocities.org/neolink/) source code, rehosted on GitHub.
+[NeoLink's](https://googol.neocities.org/neolink/) source code, but it's public and can be edited.
 
 ## Why?
 Most of the ad services on Neocities ([BannerLink](https://wsmz.gay/#misc-bannerlink), [NavLink](https://dimden.dev/navlinkads/), [ButtonLink](https://anoldnet.ichi.city/button-link/)) are based on NeoLink's source code.
@@ -17,6 +17,7 @@ To get accepted into OpenLink, you must adhere to the following:
 * No crypto.
 * Commercial sites are prohibited too.
 * Don't use a site builer (WYSIWYG editors and static site generators are fine).
+* Do not use AI in your site.
 
 ## Embedding
 To embed it, here's the sample code:
