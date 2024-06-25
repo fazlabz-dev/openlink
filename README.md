@@ -16,8 +16,8 @@ To get accepted into OpenLink, you must adhere to the following:
 * If your site is NSFW, please use content warning that informs users before entering your site.
 * No crypto.
 * Commercial sites are prohibited too.
-* Don't use a site builer (WYSIWYG editors and static site generators are fine).
-* Do not use AI in your site.
+* Don't use a site builder (WYSIWYG editors and static site generators are fine).
+* Do not use AI in your site. You may use AI as a learning tool but that doesn't mean you have to make an entire site with it.
 
 ## Embedding
 To embed it, here's the sample code:
